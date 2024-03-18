@@ -234,12 +234,13 @@ ul{
 }
 
 .Arrow_right:active {
-      background-color: rgb(241, 205, 179)
+      background-color: rgb(241, 205, 179);
       box-shadow:0 0 0 0 #ffffff; 
 }
 
 
 .slader {
+    
     padding-top: 60px;
     display: flex;
     justify-content: space-between;
@@ -252,8 +253,18 @@ ul{
 }
 
 .text_katr h3{
+    
     text-align: left;
     margin-bottom: 10px;
+    
+}
+
+
+.salder__1{
+    
+}
+
+.salder__2{
     
 }
 
